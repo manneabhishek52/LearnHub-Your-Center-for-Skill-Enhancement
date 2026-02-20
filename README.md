@@ -6,13 +6,13 @@ Welcome to **LearnHub** â€“ your one-stop solution for collaborative and ef
 
 ---
 
-## ðŸš€ Project Overview
+## Project Overview
 
 LearnHub is an open-source platform focused on delivering a collaborative learning experience. Users can create and join study groups, share resources, track their progress, and interact with peers and mentors. The platform aims to foster a community-driven approach to education.
 
 ---
 
-## âœ¨ Features
+## Features
 
 - User authentication and profile management
 - Course and resource catalog
@@ -24,7 +24,7 @@ LearnHub is an open-source platform focused on delivering a collaborative learni
 
 ---
 
-## ðŸŽ¬ Project Implementation Video
+## Project Implementation Video
 
 Watch the complete project walkthrough and implementation below:
 
@@ -37,8 +37,7 @@ usp=drive_link" controls width="100%" style="max-width:700px;">
 Or [click here to view the video directly.]([https://drive.google.com/file/d/1nfsQX3Ui_Sw-8ryZlVz0J_oTl-J6l4qg/view?usp=drivesdk](https://drive.google.com/drive/folders/1tDDOZqnWSgRxzXw20gyimiAPJI7WNRaz))
 
 ---
-
-## ðŸ› ï¸ Installation & Setup
+## Installation & Setup
 
 1. **Clone the repository:**
     ```bash
@@ -66,7 +65,7 @@ Or [click here to view the video directly.]([https://drive.google.com/file/d/1nf
 
 ---
 
-## ðŸ“¦ Usage
+## Usage
 
 - Register or log in to your account.
 - Browse courses and join study groups.
@@ -75,7 +74,7 @@ Or [click here to view the video directly.]([https://drive.google.com/file/d/1nf
 
 ---
 
-## ðŸ¤ Contributing
+##  Contributing
 
 We welcome contributions! To get started:
 
